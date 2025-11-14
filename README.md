@@ -23,10 +23,6 @@ pip install torch transformers
 <img width="495" height="206" alt="image" src="https://github.com/user-attachments/assets/53d6f9ae-f300-4482-b631-82a4f6a18452" />
 
 
-### Use with Persian model:
-
-<img width="635" height="181" alt="image" src="https://github.com/user-attachments/assets/220c03bb-de71-4242-a036-a387362463c9" />
-
 ### Features
 
 - Calculate Perplexity for arbitrary texts
