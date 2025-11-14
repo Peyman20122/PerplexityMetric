@@ -24,14 +24,14 @@ pip install torch transformers
 
 <img width="635" height="181" alt="image" src="https://github.com/user-attachments/assets/220c03bb-de71-4242-a036-a387362463c9" />
 
-# Features
+### Features
 
 - Calculate Perplexity for arbitrary texts
 - Model quality assessment: Good / Medium / Bad
 - Supports English and Persian GPT models
 - Suitable for industrial projects and testing NLP models
 
-# Notes
+### Notes
 
 - Perplexity is the only measure of the quality of the model language; for a more accurate assessment, also check task-specific measures.
 - Encoder-only models such as BERT and T5 do not directly calculate Perplexity.
