@@ -1,5 +1,7 @@
 # PerplexityCalculator
 
+<img width="852" height="496" alt="image" src="https://github.com/user-attachments/assets/3ed304a3-5bad-4659-985f-a1e0a259c5f1" />
+
 **PerplexityCalculator** is a simple and professional Python class for calculating **Perplexity** and evaluating the quality of language models. This tool is suitable for NLP projects, chatbots and content generation models.
 
 ---
