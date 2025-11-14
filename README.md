@@ -22,15 +22,15 @@ pip install torch transformers
 
 ### How to use :
 
-- **Load model and tokenizer :**
+**Load model and tokenizer :**
 
 <img width="482" height="60" alt="image" src="https://github.com/user-attachments/assets/6447a610-699c-4627-b797-44348f235c6c" />
 
-- **Input text which can be Persian or English :**
+**Input text which can be Persian or English :**
 
 <img width="319" height="42" alt="image" src="https://github.com/user-attachments/assets/3035f857-ccbb-48c1-b27a-6223b585bd18" />
 
-- **Calculate Perplexity :**
+**Calculate Perplexity :**
 
 <img width="478" height="83" alt="image" src="https://github.com/user-attachments/assets/06bae6b0-12a6-4b21-adf7-6f60caffad5c" />
 
