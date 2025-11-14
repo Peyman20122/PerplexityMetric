@@ -20,7 +20,8 @@ pip install torch transformers
 ```
 ### How to use :
 
-<img width="537" height="282" alt="image" src="https://github.com/user-attachments/assets/ce2e5fc6-d800-434e-bda9-528b8d166b3c" />
+<img width="495" height="206" alt="image" src="https://github.com/user-attachments/assets/53d6f9ae-f300-4482-b631-82a4f6a18452" />
+
 
 ### Use with Persian model:
 
