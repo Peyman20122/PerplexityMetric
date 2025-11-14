@@ -43,6 +43,8 @@ pip install torch transformers
 - Supports English and Persian GPT models
 - Suitable for industrial projects and testing NLP models
 
+---
+
 ### Notes
 
 - Perplexity is the only measure of the quality of the model language; for a more accurate assessment, also check task-specific measures.
