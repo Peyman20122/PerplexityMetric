@@ -34,6 +34,7 @@ pip install torch transformers
 
 <img width="478" height="83" alt="image" src="https://github.com/user-attachments/assets/06bae6b0-12a6-4b21-adf7-6f60caffad5c" />
 
+---
 
 ### Features
 
