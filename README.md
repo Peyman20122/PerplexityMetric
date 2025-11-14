@@ -18,6 +18,8 @@ You can download the `perplexity_calculator.py` file from GitHub:
 ```bash
 pip install torch transformers
 ```
+--- 
+
 ### How to use :
 
 **Load model and tokenizer :**
